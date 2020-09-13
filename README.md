@@ -2,18 +2,17 @@
 
 ### Index
 
-* **[Goal]()**
-* **[Background]()**
-* **[Links]()**
-* **[Overview]()**
-* **Tutorial Steps**
-    * [Step 1 Use CRA to create project]() 
-    * [Step 2 Setup Express Server]()
-    * [Step 3 Install MongoDB]()
-    * [Step 4 Connecting Express to MongoDB]()
+* **[Goal](#Goal)**
+* **[Background](#Background)**
+* **[Links](#Links)**
+* **[Overview](#Overview)**
+    * [Step 1 Use CRA to create project](/docs/1.md) 
+    * [Step 2 Setup Express Server](/docs/2.md)
+    * [Step 3 Install MongoDB](/docs/3.md)
+    * [Step 4 Connecting Express to MongoDB](/docs/4.md)
     * [Step 5 Adding Routes in React]()
     * [Step 6 Adding Routes in Express]()
-    * [Step 7 Requesting Data]()
+    * [Step 7 Requesting Data](/docs/5.md)
 
 ## Goal
 
