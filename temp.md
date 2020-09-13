@@ -24,4 +24,3 @@ app.get('/', function (req, res) {
 // Tell Express which port to listen to
 app.listen(process.env.PORT || 8080);
 ```
-1
