@@ -19,9 +19,9 @@ By [Julian Johannesen](https://github.com/julianjohannesen) and [Ben Davis](http
 
 **Create a simple web app using the MERN stack and explore basic authentication.**
 
-In this tutorial you'll become familiar with how to build web applications that depend on APIs to provide them with services like user authentication and authorization. You’ll be building a very simple website that will allow a user to register an account, log in and log out securely. The stack you’ll be using is the popular MERN stack, which comprises MongoDB, Express.js, React.js, and Node.js. You’ll be using several other technologies along the way, but those four are the biggies.
+In this tutorial you'll become familiar with how to build web applications that depend on APIs to provide them with services like user authentication and authorization. You’ll be building a very simple website that will allow a user to register an account, log in, and log out securely. The stack you’ll be using is the popular MERN stack, which comprises MongoDB, Express.js, React.js, and Node.js. You’ll be using several other technologies along the way, but those four are the biggies.
 
-This tutorial is not intended to teach everything you need to know to deploy an application. Our intention is to cover only what you need to build a working application.
+This tutorial is not intended to teach you everything you need to know to deploy an application. Our intention is to cover only what you need to know in order to build a working application.
 
 ## Background
 
@@ -78,14 +78,6 @@ Unless you plan to complete the tutorial in one sitting, there are a few things 
 3. `Start the Express server (served on port 8080)`
 4. `Use curl (or Postman) to send a POST request to Express to make sure it's working`
 5. `Inspect the database with the mongo CLI and query a record to make sure everything is working as it should`
-
-## GLOSSARY
-
-**JSON** stands for JavaScript Object Notation. JSON uses key:value pairs in which the key is a string and the value can be any data type. It’s very similar to JavaScript’s syntax for objects.
-
-**JWT** stands for JSON Web Token. JWTs are a way of transmitting authentication and authorization information from and to a server without the server needing to store a session ID.
-
-**ORM** which stands Object Relation Management is a way of bridging the gap between object oriented programming languages and (usually) relational databases.
 
 
 NOTES -
